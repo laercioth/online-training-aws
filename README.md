@@ -1,2 +1,2 @@
 # online-training-aws
-This show my training course 
+### This repo is for storing online training certification
